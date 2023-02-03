@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Index</title>
+    <title>Home</title>
     <link rel="stylesheet" href="style.css">
     <?php include_once("functions.php"); ?>
 </head>
