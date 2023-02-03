@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Noto+Sans+JP&display=swap');
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    padding: 20px;
+    color: #fdf6f0;
+    background-color: #293942;
+    border: 2px solid #93c8c4;
+    text-align: center;
+    margin-top: auto;
+}
+
+main {
+    padding: 20px;
+    overflow: auto;
+}
+
+nav {
+    overflow: hidden;
+    background-color: #293942;
+    border: 2px solid #93c8c4;
+}
+
+nav a {
+    color: #fdf6f0;
+    float: left;
+    text-decoration: none;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.jumbotron {
+    font-size: 20px;
+    padding: 20px;
+    background-color: #293942;
+    text-align: center;
+    color: #fdf6f0;
+    border: 2px solid #93c8c4;
+}
+
+
+.tambah-data {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.tambah-button {
+  background: #293942;
+  border: 3px solid #93c8c4;
+  border-radius: 40px;
+  color: #fdf6f0;
+  font-weight: bold;
+  line-height: 24px;
+  padding: 8px 18px;
+}
